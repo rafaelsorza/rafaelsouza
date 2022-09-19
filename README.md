@@ -3,10 +3,10 @@ sobre mim
 + Meu nome é Rafael Souza Alcantara 
 + Tenho apenas 15 anos
 +ss
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
+  - Oque eu sei fazer:
+    * Ser o aluno exemplar da sala
+    + Tirar melhores notas
+    - Sou programador iniciante
 + Very easy!
 
 
